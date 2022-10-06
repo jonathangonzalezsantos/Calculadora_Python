@@ -1,0 +1,16 @@
+alphabotsec.vscode-eclipse-keybindings
+aslamanver.vsc-export
+bajdzis.vscode-database
+DotJoshJohnson.xml
+felipecaputo.git-project-manager
+humao.rest-client
+lihui.vs-color-picker
+ms-python.python
+seanwu.vscode-qt-for-python
+shd101wyy.markdown-preview-enhanced
+tht13.python
+Tyriar.terminal-tabs
+vadimcn.vscode-lldb
+vscode-icons-team.vscode-icons
+yzhang.markdown-all-in-one
+zhoufeng.pyqt-integration

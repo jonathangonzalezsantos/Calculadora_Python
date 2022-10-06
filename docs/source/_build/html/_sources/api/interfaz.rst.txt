@@ -1,0 +1,28 @@
+.. Calculadora para nenos documentation master file, created by
+   sphinx-quickstart on Sat Apr 17 12:34:20 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Interface
+=========
+
+A calculadora ten a seguinte imaxe:
+
+.. image:: ../images/calculadora.png
+
+Como se pode comprobar, os iconos están separados por cores:
+
+- Azul: Utilizado para remarcar os números e a coma. Con estes botóns poderá interactuarse para introducir os números cos que se quera operar
+- Púrpura: Utilizado para remarcar as posibles operacións a realizar: suma ('+'), resta ('-'), multiplicación ('*'), división ('/') e igual ('='), para obter o resultado.
+- Laranxa: Utilizado para os botóns de corrección.
+
+Na parte superior esquerda, encontrámonos con dous recadros:
+
+- O superior: é no que se recollen os datos que vanse introducindo na calculadora para operar. Nel poderase comprobar que estamos a escribir correctamente a operación que se quere realizar.
+- O inferior: é no que se recolle o resultado da operación realizada unha vez se pulse no botón igual ('=').
+
+
+
+
+
+
